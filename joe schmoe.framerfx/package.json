@@ -1,0 +1,20 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"version": "1.4.0",
+	"devDependencies": {
+		"@types/react": "^16.4.16"
+	},
+	"peerDependencies": {
+		"framer": "^0.10",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "22210340-6ab9-4011-8fb4-a4aa21cd850f",
+		"displayName": "Joe Schmoe"
+	},
+	"author": "Elliot Nolten",
+	"dependencies": {},
+	"name": "@framer/elliot.joe-schmoe"
+}
